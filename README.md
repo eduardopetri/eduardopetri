@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Eduardo Petri</h1>
 
-- 🔭 I’m currently working on [Towty Soluções](https://towty.com.br/)
+- 🔭 I’m currently working on [Senior Sistemas](https://www.senior.com.br/)
 
 ## Languages and Technologies I use daily
 
