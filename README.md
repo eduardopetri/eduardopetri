@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear 👋, I'm Eduardo Petri</h1>
+<h1 align="center">Hi 👋, I'm Eduardo Petri</h1>
 
 <div align="center">
   <a href="https://github.com/eduardopetri">
